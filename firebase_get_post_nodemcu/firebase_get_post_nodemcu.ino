@@ -4,7 +4,6 @@
 #include <Hash.h>
 #include <FS.h>
 #include <ESPAsyncWebServer.h>
-#include <ThingSpeak.h>
 #include <math.h>
 #include "CComplex.h"
 
